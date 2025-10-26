@@ -19,9 +19,11 @@
 }
 
 .container {
-    border: 1px solid black;
+    border: 1px solid #7a7a7a;
     margin-top: 20px;
     width: 800px;
     height: 800px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
